@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "728038974058",
+    "project_id": "propertysale-bf180",
+    "storage_bucket": "propertysale-bf180.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728038974058:android:d2eb492c8d108a974d2013",
+        "android_client_info": {
+          "package_name": "com.propertysalespoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728038974058-khsf0s2oq4g8t8ho2fbthlbheksqkg00.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.propertysalespoc",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "728038974058-4q7fe1hghtvgokh0q1dtaqsb6df70sto.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyvVu8TkM02BxS9EHH-YF2xTEP_0pymaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728038974058-4q7fe1hghtvgokh0q1dtaqsb6df70sto.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
